@@ -1,0 +1,19 @@
+{
+  "name": "node-modules-study",
+  "version": "1.0.0",
+  "description": "Modules学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnXi029/node-modules-study.git"
+  },
+  "author": "westwall <403019478@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnXi029/node-modules-study/issues"
+  },
+  "homepage": "https://github.com/JohnXi029/node-modules-study#readme"
+}
