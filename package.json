@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnXi029/node-modules-study/issues"
   },
-  "homepage": "https://github.com/JohnXi029/node-modules-study#readme"
+  "homepage": "https://github.com/JohnXi029/node-modules-study#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
